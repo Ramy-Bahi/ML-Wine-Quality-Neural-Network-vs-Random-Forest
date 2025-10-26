@@ -111,10 +111,30 @@ ML-Wine-Quality-Neural-Network-vs-Random-Forest/
 ---
 
 ## 🧩 How to Run
-
+```python
 git clone https://github.com/Ramy-Bahi/ML-Wine-Quality-Neural-Network-vs-Random-Forest.git
 cd ML-Wine-Quality-Neural-Network-vs-Random-Forest
-pip install -r requirements.txt
+jupyter notebook notebooks/multiclass_comparison.ipynb
+```
 
 ---
 
+## 📊 Dataset
+
+Available on Kaggle: [**Red Wine Quality (Cortez et al., 2009)**](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
+
+---
+
+## 👨‍💻 Author
+
+**Rami Bahi**
+
+🎓 Master’s Student in Artificial Intelligence
+
+💻 Passionate about Machine Learning, Deep Learning & Web Development
+
+---
+
+## ⭐ If you like this project...
+
+Give it a star ⭐ on GitHub to support my work and journey!
