@@ -99,7 +99,7 @@ Despite its simplicity, this architecture matched the Random Forest’s performa
 ML-Wine-Quality-Neural-Network-vs-Random-Forest/
 │
 ├── data/
-│   └── dataset.csv
+│   └── winequality-red.csv
 │
 ├── notebooks/
 │   └── multiclass_comparison.ipynb
